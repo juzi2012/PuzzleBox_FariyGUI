@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,100">
+  <displayList>
+    <component id="n0_hlxd" name="btn_restart" src="hlxd9" xy="533,18"/>
+    <text id="n2_hlxd" name="txt_score" xy="5,47" size="224,54" font="ui://7cac2uhfhlxdb" fontSize="9" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="0"/>
+    <text id="n3_hlxd" name="n3" xy="63,12" size="101,43" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="分    数"/>
+    <text id="n4_hlxd" name="txt_score_max" xy="363,60" size="293,54" scale="0.6,0.6" font="ui://7cac2uhfhlxdb" fontSize="9" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="0"/>
+    <text id="n5_hlxd" name="n5" xy="386,11" size="125,43" font="微软雅黑" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="历史最高"/>
+  </displayList>
+</component>

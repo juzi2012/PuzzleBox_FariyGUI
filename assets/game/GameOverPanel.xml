@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,400">
+  <displayList>
+    <image id="n0_hlxd" name="n0" src="hlxd4" xy="0,0" size="500,400"/>
+    <component id="n3_hlxd" name="btn_restart" src="hlxd9" xy="213,286"/>
+    <text id="n4_hlxd" name="txt_now" xy="84,178" size="333,70" font="ui://7cac2uhfhlxdb" fontSize="23" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n6_hlxd" name="txt_max" xy="228,102" size="168,31" font="微软雅黑" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+  </displayList>
+</component>

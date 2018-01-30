@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="224,54">
+  <displayList>
+    <text id="n0_rzcx" name="txt_score" xy="0,0" size="224,54" font="ui://7cac2uhfhlxdb" fontSize="9" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="0"/>
+  </displayList>
+  <transition name="showmovie">
+    <item time="0" type="Pivot" target="n0_rzcx" value="0.5,0.5"/>
+    <item time="0" type="Scale" target="n0_rzcx" tween="true" startValue="0.2,0.2" endValue="1,1" duration="8"/>
+    <item time="0" type="XY" target="n0_rzcx" tween="true" startValue="0,0" endValue="0,17" duration="4"/>
+    <item time="4" type="XY" target="n0_rzcx" tween="true" startValue="0,17" endValue="0,-36" duration="4"/>
+    <item time="8" type="Pivot" target="n0_rzcx" value="0.5,0.5"/>
+  </transition>
+</component>

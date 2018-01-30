@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7cac2uhf" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hlxd0" name="blue.png" path="/img/" exported="true"/>
+    <image id="hlxd1" name="btn_pause.png" path="/img/"/>
+    <image id="hlxd2" name="btn_restart.png" path="/img/"/>
+    <image id="hlxd3" name="kuang.png" path="/img/" exported="true"/>
+    <image id="hlxd4" name="popup.png" path="/img/"/>
+    <image id="hlxd5" name="red.png" path="/img/" exported="true"/>
+    <image id="hlxd6" name="tile_bg.png" path="/img/" exported="true"/>
+    <image id="hlxd7" name="yellow.png" path="/img/" exported="true"/>
+    <component id="hlxd8" name="GameOverPanel.xml" path="/" exported="true"/>
+    <component id="hlxd9" name="BtnRestart.xml" path="/" exported="true"/>
+    <component id="hlxda" name="TopUI.xml" path="/" exported="true"/>
+    <font id="hlxdb" name="NumFont.fnt" path="/" exported="true"/>
+    <image id="hlxdc" name="num1.png" path="/img/"/>
+    <image id="hlxdd" name="num2.png" path="/img/"/>
+    <image id="hlxde" name="num3.png" path="/img/"/>
+    <image id="hlxdf" name="num4.png" path="/img/"/>
+    <image id="hlxdg" name="num5.png" path="/img/"/>
+    <image id="hlxdh" name="num6.png" path="/img/"/>
+    <image id="hlxdi" name="num7.png" path="/img/"/>
+    <image id="hlxdj" name="num8.png" path="/img/"/>
+    <image id="hlxdk" name="num9.png" path="/img/"/>
+    <image id="hlxdl" name="num0.png" path="/img/"/>
+    <component id="rzcxm" name="FloatScore.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="game" path="D:\work\egret\PuzzleBox\resource\assets" genCode="true"/>
+</packageDescription>
