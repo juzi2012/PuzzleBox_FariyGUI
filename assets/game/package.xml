@@ -60,6 +60,7 @@
     <image id="oxah1u" name="star.png" path="/img/"/>
     <image id="oxah1v" name="jiahao.png" path="/img/"/>
     <component id="oxah1w" name="Alert.xml" path="/" exported="true"/>
+    <image id="ba5s1x" name="star_di.png" path="/img/" scale="9grid" scale9grid="8,8,16,8"/>
   </resources>
   <publish name="game" path="D:\work\egret\PuzzleBox\resource\assets" genCode="true"/>
 </packageDescription>
