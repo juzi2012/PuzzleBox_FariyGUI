@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="161,43">
+  <displayList>
+    <image id="n0_rzcx" name="n0" src="rzcxy" xy="0,0" size="161,43"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Pivot" target="n0_rzcx" value="0.5,0.5"/>
+    <item time="0" type="Scale" target="n0_rzcx" tween="true" startValue="0.2,0.2" endValue="1,1" duration="3"/>
+    <item time="0" type="XY" target="n0_rzcx" tween="true" startValue="0,0" endValue="0,20" duration="3"/>
+    <item time="3" type="Scale" target="n0_rzcx" tween="true" startValue="1,1" endValue="1,1" duration="5"/>
+    <item time="3" type="XY" target="n0_rzcx" tween="true" startValue="0,20" endValue="-20,-30" duration="5"/>
+    <item time="8" type="Pivot" target="n0_rzcx" value="0.5,0.5"/>
+    <item time="12" type="Pivot" target="n0_rzcx" value="0.5,0.5"/>
+    <item time="12" type="Scale" target="n0_rzcx" value="1,1"/>
+    <item time="12" type="Visible" target="n0_rzcx" value="true"/>
+    <item time="12" type="XY" target="n0_rzcx" value="-20,-30"/>
+    <item time="13" type="Visible" target="n0_rzcx" value="false"/>
+  </transition>
+</component>

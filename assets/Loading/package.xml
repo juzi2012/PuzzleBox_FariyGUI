@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0lf0k2bw" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="rzcx0" name="loading_word.png" path="/img/"/>
+    <component id="rzcx3" name="LoadingBar.xml" path="/" exported="true"/>
+    <image id="rzcx4" name="loadingba.png" path="/img/" scale="9grid" scale9grid="41,9,155,12"/>
+    <image id="rzcx5" name="loadingdi.png" path="/img/"/>
+  </resources>
+  <publish name="Loading" genCode="true"/>
+</packageDescription>

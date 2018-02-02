@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,260">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_oxah" name="n0" src="oxah1m" xy="0,0" size="400,260">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_oxah" name="btn_ok" src="oxah1t" xy="78,160" scale="0.5,0.5">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0" values="78,160" default="169,160"/>
+      <relation target="" sidePair="bottom-bottom"/>
+      <Button title="OK"/>
+    </component>
+    <component id="n3_oxah" name="btn_ok" src="oxah1t" xy="18,199" scale="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="Cancel"/>
+    </component>
+    <text id="n4_oxah" name="txt_info" xy="35,43" size="327,110" fontSize="24" color="#999999" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="" sidePair="top-top"/>
+    </text>
+  </displayList>
+</component>

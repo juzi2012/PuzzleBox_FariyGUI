@@ -3,8 +3,6 @@
   <resources>
     <image id="hlxd0" name="blue.png" path="/img/" exported="true"/>
     <image id="hlxd1" name="btn_pause.png" path="/img/"/>
-    <image id="hlxd2" name="btn_restart.png" path="/img/"/>
-    <image id="hlxd3" name="kuang.png" path="/img/" exported="true"/>
     <image id="hlxd4" name="popup.png" path="/img/"/>
     <image id="hlxd5" name="red.png" path="/img/" exported="true"/>
     <image id="hlxd6" name="tile_bg.png" path="/img/" exported="true"/>
@@ -24,6 +22,44 @@
     <image id="hlxdk" name="num9.png" path="/img/"/>
     <image id="hlxdl" name="num0.png" path="/img/"/>
     <component id="rzcxm" name="FloatScore.xml" path="/" exported="true"/>
+    <image id="rzcxn" name="btn_play.png" path="/img/"/>
+    <image id="rzcxo" name="btn_rank.png" path="/img/"/>
+    <image id="rzcxp" name="btn_share.png" path="/img/"/>
+    <image id="rzcxq" name="btn_star.png" path="/img/"/>
+    <image id="rzcxr" name="cup.png" path="/img/"/>
+    <image id="rzcxs" name="green.png" path="/img/" exported="true"/>
+    <image id="rzcxt" name="purple.png" path="/img/" exported="true"/>
+    <component id="rzcxu" name="Btn_pause.xml" path="/" exported="true"/>
+    <component id="rzcxv" name="Btn_rank.xml" path="/" exported="true"/>
+    <component id="rzcxw" name="Btn_share.xml" path="/" exported="true"/>
+    <component id="rzcxx" name="Btn_star.xml" path="/" exported="true"/>
+    <image id="rzcxy" name="cool.png" path="/img/"/>
+    <image id="rzcxz" name="good.png" path="/img/"/>
+    <component id="rzcx10" name="Good.xml" path="/" exported="true"/>
+    <component id="rzcx11" name="Cool.xml" path="/" exported="true"/>
+    <image id="rzcx13" name="btn_refresh.png" path="/img/"/>
+    <image id="rzcx14" name="btn_sound.png" path="/img/"/>
+    <image id="rzcx15" name="btn_sound_off.png" path="/img/"/>
+    <component id="rzcx16" name="Btn_refresh.xml" path="/" exported="true"/>
+    <component id="rzcx17" name="Btn_sound.xml" path="/" exported="true"/>
+    <image id="rzcx18" name="btn_start.png" path="/img/"/>
+    <component id="rzcx19" name="BtnStart.xml" path="/" exported="true"/>
+    <component id="rzcx1f" name="GameMenuModule.xml" path="/" exported="true"/>
+    <image id="rzcx1g" name="btn_home.png" path="/img/"/>
+    <component id="rzcx1h" name="Btn_home.xml" path="/" exported="true"/>
+    <component id="oxah1i" name="ChangePanel.xml" path="/" exported="true"/>
+    <image id="oxah1j" name="btn_close.png" path="/img/"/>
+    <component id="oxah1l" name="popBg.xml" path="/"/>
+    <image id="oxah1m" name="popbg.png" path="/img/" scale="9grid" scale9grid="92,112,169,60"/>
+    <image id="oxah1n" name="poptitle.png" path="/img/"/>
+    <component id="oxah1o" name="Btn_close.xml" path="/" exported="true"/>
+    <image id="oxah1p" name="di.png" path="/img/" scale="9grid" scale9grid="13,13,26,26"/>
+    <image id="oxah1q" name="jiantou.png" path="/img/"/>
+    <image id="oxah1r" name="btn_normal.png" path="/img/"/>
+    <component id="oxah1t" name="Btn_normal.xml" path="/" exported="true"/>
+    <image id="oxah1u" name="star.png" path="/img/"/>
+    <image id="oxah1v" name="jiahao.png" path="/img/"/>
+    <component id="oxah1w" name="Alert.xml" path="/" exported="true"/>
   </resources>
   <publish name="game" path="D:\work\egret\PuzzleBox\resource\assets" genCode="true"/>
 </packageDescription>

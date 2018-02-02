@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="500,400">
+<component size="542,646">
   <displayList>
-    <image id="n0_hlxd" name="n0" src="hlxd4" xy="0,0" size="500,400"/>
-    <component id="n3_hlxd" name="btn_restart" src="hlxd9" xy="213,286"/>
-    <text id="n4_hlxd" name="txt_now" xy="84,178" size="333,70" font="ui://7cac2uhfhlxdb" fontSize="23" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n6_hlxd" name="txt_max" xy="228,102" size="168,31" font="微软雅黑" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <image id="n0_hlxd" name="n0" src="hlxd4" xy="0,0" size="542,646"/>
+    <component id="n3_hlxd" name="btn_restart" src="hlxd9" xy="171,394"/>
+    <text id="n4_hlxd" name="txt_now" xy="104,270" size="333,83" font="ui://7cac2uhfhlxdb" fontSize="23" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <component id="n8_rzcx" name="n8" src="rzcxv" xy="110,497" size="82,88"/>
+    <component id="n9_rzcx" name="n9" src="rzcxw" xy="379,497"/>
+    <component id="n10_rzcx" name="n10" src="rzcxx" xy="248,497"/>
+    <image id="n11_rzcx" name="n11" src="rzcxr" xy="125,192"/>
+    <text id="n12_rzcx" name="txt_max" xy="179,194" size="412,80" scale="0.5,0.5" font="ui://7cac2uhfhlxdb" fontSize="12" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n13_rzcx" name="n13" xy="150,70" size="258,52" font="Charlemagne Std" fontSize="38" color="#f2c182" vAlign="middle" autoSize="none" shadowColor="#000000" shadowOffset="3,3" text="GAME OVER"/>
   </displayList>
 </component>

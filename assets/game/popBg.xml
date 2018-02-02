@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="334,350">
+  <displayList>
+    <image id="n3_oxah" name="n3" src="oxah1m" xy="0,44" size="334,300">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n4_oxah" name="n4" src="oxah1n" xy="51,0">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <component id="n5_oxah" name="btn_close" src="oxah1o" xy="291,33">
+      <relation target="" sidePair="top-top,right-right"/>
+    </component>
+    <text id="n6_oxah" name="title" xy="65,8" size="207,55" font="Charlemagne Std" fontSize="24" color="#f2c182" align="center" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+</component>
