@@ -9,5 +9,5 @@
       <relation target="" sidePair="width-width,height-height"/>
     </text>
   </displayList>
-  <ProgressBar titleType="value"/>
+  <ProgressBar titleType="valueAndmax"/>
 </component>

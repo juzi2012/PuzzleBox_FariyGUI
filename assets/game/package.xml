@@ -61,6 +61,11 @@
     <image id="oxah1v" name="jiahao.png" path="/img/"/>
     <component id="oxah1w" name="Alert.xml" path="/" exported="true"/>
     <image id="ba5s1x" name="star_di.png" path="/img/" scale="9grid" scale9grid="8,8,16,8"/>
+    <image id="ifkr1y" name="lock.png" path="/img/" exported="true"/>
+    <image id="ifkr1z" name="wenhao.png" path="/img/" exported="true"/>
+    <image id="ifkr20" name="-.png" path="/img/"/>
+    <component id="ifkr22" name="Btn_add.xml" path="/"/>
+    <component id="ifkr23" name="ListItem.xml" path="/" exported="true"/>
   </resources>
   <publish name="game" path="D:\work\egret\PuzzleBox\resource\assets" genCode="true"/>
 </packageDescription>

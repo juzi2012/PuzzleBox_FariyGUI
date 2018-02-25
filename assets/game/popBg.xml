@@ -10,6 +10,8 @@
     <component id="n5_oxah" name="btn_close" src="oxah1o" xy="291,33">
       <relation target="" sidePair="top-top,right-right"/>
     </component>
-    <text id="n6_oxah" name="title" xy="65,8" size="207,55" font="Charlemagne Std" fontSize="24" color="#f2c182" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n6_oxah" name="title" xy="65,8" size="207,55" font="Charlemagne Std" fontSize="24" color="#f2c182" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="" sidePair="center-center,width-width"/>
+    </text>
   </displayList>
 </component>

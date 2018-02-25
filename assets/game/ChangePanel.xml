@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="392,582">
+<component size="500,582">
   <displayList>
-    <component id="n14_oxah" name="bg" src="oxah1l" xy="0,0" size="392,582"/>
-    <image id="n15_oxah" name="l1" src="oxah1p" xy="55,147" size="100,100"/>
-    <image id="n16_oxah" name="n16" src="oxah1q" xy="182,181"/>
-    <image id="n17_oxah" name="l2" src="oxah1p" xy="55,255" size="100,100"/>
-    <image id="n18_oxah" name="n18" src="oxah1q" xy="182,291"/>
-    <image id="n19_oxah" name="l3" src="oxah1p" xy="55,362" size="100,100"/>
-    <image id="n20_oxah" name="n20" src="oxah1q" xy="182,400"/>
-    <image id="n21_oxah" name="r1" src="oxah1p" xy="247,147" size="100,100"/>
-    <image id="n22_oxah" name="r2" src="oxah1p" xy="247,256" size="100,100"/>
-    <image id="n23_oxah" name="r3" src="oxah1p" xy="247,362" size="100,100"/>
+    <component id="n14_oxah" name="bg" src="oxah1l" xy="0,0" size="500,582"/>
+    <image id="n15_oxah" name="l1" src="oxah1p" xy="75,147" size="100,100"/>
+    <image id="n16_oxah" name="n16" src="oxah1q" xy="232,181"/>
+    <image id="n17_oxah" name="l2" src="oxah1p" xy="75,255" size="100,100"/>
+    <image id="n18_oxah" name="n18" src="oxah1q" xy="232,291"/>
+    <image id="n19_oxah" name="l3" src="oxah1p" xy="75,362" size="100,100"/>
+    <image id="n20_oxah" name="n20" src="oxah1q" xy="232,400"/>
+    <image id="n21_oxah" name="r1" src="oxah1p" xy="327,147" size="100,100"/>
+    <image id="n22_oxah" name="r2" src="oxah1p" xy="327,256" size="100,100"/>
+    <image id="n23_oxah" name="r3" src="oxah1p" xy="327,362" size="100,100"/>
     <text id="n24_oxah" name="info" xy="55,91" size="291,49" fontSize="12" color="#348a98" autoSize="none" text=""/>
-    <component id="n25_oxah" name="btn_ok" src="oxah1t" xy="74,473" scale="0.6,0.6">
+    <component id="n25_oxah" name="btn_ok" src="oxah1t" xy="137,471" scale="0.6,0.6">
       <Button title="OK"/>
     </component>
-    <image id="n27_oxah" name="n27" src="oxah1u" xy="293,524" scale="0.4,0.4"/>
-    <text id="n28_oxah" name="txt_star" xy="321,526" size="54,19" fontSize="12" color="#999999" vAlign="middle" autoSize="none" text=""/>
-    <image id="n29_oxah" name="add1" src="oxah1v" xy="270,170"/>
-    <image id="n30_oxah" name="add2" src="oxah1v" xy="270,279"/>
-    <image id="n31_oxah" name="add3" src="oxah1v" xy="270,385"/>
+    <image id="n27_oxah" name="n27" src="oxah1u" xy="363,524" scale="0.4,0.4"/>
+    <text id="n28_oxah" name="txt_star" xy="391,526" size="54,19" fontSize="12" color="#999999" vAlign="middle" autoSize="none" text=""/>
+    <component id="n29_oxah" name="add1" src="ifkr22" xy="350,170"/>
+    <component id="n30_oxah" name="add2" src="ifkr22" xy="350,279"/>
+    <component id="n31_oxah" name="add3" src="ifkr22" xy="350,385"/>
+    <list id="n32_ifkr" name="list" xy="441,152" size="92,305" overflow="scroll" lineGap="5" defaultItem="ui://7cac2uhfifkr23" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
   </displayList>
 </component>
