@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="500,582">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <controller name="c2" pages="0,,1," selected="1"/>
+  <controller name="c3" pages="0,,1," selected="1"/>
   <displayList>
     <component id="n14_oxah" name="bg" src="oxah1l" xy="0,0" size="500,582"/>
     <image id="n15_oxah" name="l1" src="oxah1p" xy="75,147" size="100,100"/>
@@ -16,10 +19,19 @@
       <Button title="OK"/>
     </component>
     <image id="n27_oxah" name="n27" src="oxah1u" xy="363,524" scale="0.4,0.4"/>
-    <text id="n28_oxah" name="txt_star" xy="391,526" size="54,19" fontSize="12" color="#999999" vAlign="middle" autoSize="none" text=""/>
-    <component id="n29_oxah" name="add1" src="ifkr22" xy="350,170"/>
-    <component id="n30_oxah" name="add2" src="ifkr22" xy="350,279"/>
-    <component id="n31_oxah" name="add3" src="ifkr22" xy="350,385"/>
+    <text id="n28_oxah" name="txt_star" xy="391,526" size="77,19" fontSize="16" color="#999999" vAlign="middle" autoSize="none" text=""/>
+    <graph id="n39_j0b5" name="content3" xy="327,363" size="100,100" type="rect" lineColor="#00000000" fillColor="#00ffffff"/>
+    <graph id="n38_j0b5" name="content2" xy="328,256" size="100,100" type="rect" lineColor="#00000000" fillColor="#00ffffff"/>
+    <graph id="n37_j0b5" name="content1" xy="327,148" size="100,100" type="rect" lineColor="#00000000" fillColor="#00ffffff"/>
+    <component id="n29_oxah" name="add1" src="ifkr22" xy="350,170">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n30_oxah" name="add2" src="ifkr22" xy="350,279">
+      <gearDisplay controller="c2" pages="0"/>
+    </component>
+    <component id="n31_oxah" name="add3" src="ifkr22" xy="350,385">
+      <gearDisplay controller="c3" pages="0"/>
+    </component>
     <list id="n32_ifkr" name="list" xy="441,152" size="92,305" overflow="scroll" lineGap="5" defaultItem="ui://7cac2uhfifkr23" align="center" vAlign="middle">
       <item/>
       <item/>
@@ -34,5 +46,14 @@
       <item/>
       <item/>
     </list>
+    <component id="n34_j0b5" name="btn_del1" src="j0b525" xy="403,140">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n35_j0b5" name="btn_del2" src="j0b525" xy="403,251">
+      <gearDisplay controller="c2" pages="1"/>
+    </component>
+    <component id="n36_j0b5" name="btn_del3" src="j0b525" xy="403,355">
+      <gearDisplay controller="c3" pages="1"/>
+    </component>
   </displayList>
 </component>

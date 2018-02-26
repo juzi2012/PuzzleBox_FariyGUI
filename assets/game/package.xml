@@ -66,6 +66,8 @@
     <image id="ifkr20" name="-.png" path="/img/"/>
     <component id="ifkr22" name="Btn_add.xml" path="/"/>
     <component id="ifkr23" name="ListItem.xml" path="/" exported="true"/>
+    <image id="j0b524" name="xx.png" path="/img/"/>
+    <component id="j0b525" name="Btn_xx.xml" path="/"/>
   </resources>
   <publish name="game" path="D:\work\egret\PuzzleBox\resource\assets" genCode="true"/>
 </packageDescription>
